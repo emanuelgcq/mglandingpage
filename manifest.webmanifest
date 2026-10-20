@@ -1,0 +1,17 @@
+{
+  "name": "Materiales y Decoraciones MG",
+  "short_name": "MG",
+  "description": "Todo lo que buscas para construir o remodelar tu espacio ideal. Barquisimeto y Barinas.",
+  "lang": "es-VE",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070a08",
+  "theme_color": "#070a08",
+  "icons": [
+    { "src": "iconos/icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "iconos/icono-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "iconos/icono-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "iconos/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

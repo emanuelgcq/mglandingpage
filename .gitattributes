@@ -1,0 +1,9 @@
+# Los archivos de texto van siempre con LF en el repositorio,
+# que es lo que espera el servidor Linux de Hostinger.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary

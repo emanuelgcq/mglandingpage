@@ -1,0 +1,13 @@
+# Configuración local de Claude Code (tiene rutas absolutas de esta máquina)
+.claude/
+
+# Windows / macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Por si más adelante añades herramientas de build
+node_modules/
+dist/
+.env
+.env.local
